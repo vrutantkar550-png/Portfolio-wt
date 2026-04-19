@@ -13,12 +13,15 @@ o	Resume
 o	Contact Information 
 •	Helps in creating a strong first impression 
 Technologies Used
-1.	HTML (HyperText Markup Language) 
+
+1.	HTML (HyperText Markup Language)
 o	Used to structure the content of the website 
-o	Defines headings, paragraphs, images, and links 
+o	Defines headings, paragraphs, images, and links
+
 2.	CSS (Cascading Style Sheets) 
 o	Used for designing and layout 
-o	Controls colors, fonts, spacing, and responsiveness 
+o	Controls colors, fonts, spacing, and responsiveness
+
 3.	JavaScript 
 o	Adds interactivity (animations, form validation, dynamic content) 
 o	Enhances user experience 
